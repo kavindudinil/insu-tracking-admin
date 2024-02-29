@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "321627385762",
+    "firebase_url": "https://infs-tracking-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "infs-tracking",
+    "storage_bucket": "infs-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321627385762:android:bc5fcb2b3afc4916cdccfb",
+        "android_client_info": {
+          "package_name": "com.example.insu_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321627385762-dtj1kds8mo6p71ta9p11i5t313lvfn22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insu_tracking",
+            "certificate_hash": "a5b83bc6c322f25394edf1a1d29136e4f8dd4ba3"
+          }
+        },
+        {
+          "client_id": "321627385762-f7c3e0nvjpkiahufv1rp13rjvjtunshm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_mE47IsxE5GNR1q7XIPZym-rvBqy3Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321627385762-f7c3e0nvjpkiahufv1rp13rjvjtunshm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321627385762-gsfkbih89nqkfr84i6decv8jlrn758r7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.insuTrackingAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321627385762:android:49b0fc87a229ce9ccdccfb",
+        "android_client_info": {
+          "package_name": "com.example.insu_tracking_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321627385762-4f3u0nn2u6jh0sv4qe36mh1ul7t1lvho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insu_tracking_admin",
+            "certificate_hash": "a5b83bc6c322f25394edf1a1d29136e4f8dd4ba3"
+          }
+        },
+        {
+          "client_id": "321627385762-f7c3e0nvjpkiahufv1rp13rjvjtunshm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_mE47IsxE5GNR1q7XIPZym-rvBqy3Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321627385762-f7c3e0nvjpkiahufv1rp13rjvjtunshm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321627385762-gsfkbih89nqkfr84i6decv8jlrn758r7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.insuTrackingAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
